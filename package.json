@@ -1,11 +1,10 @@
-{ "name" : "glob-js"
-, "description" : "glob implementation in pure javascript"
-, "author" : "Kevin Thompson <kevin.thompson@theautomaters.com>"
-, "version" : "0.0.1"
-, "main" : "./lib/glob"
-, "dependencies" : { }
-, "engines" :
-  { "node" : "0.4"
-  , "npm": "1"
-  }
+{ "name"          : "glob-js"
+, "description"   : "glob implementation in pure javascript"
+, "url"           : "https://github.com/kthompson/glob-js"
+, "keywords"      : ["glob", "regex"]
+, "author"        : "Kevin Thompson <kevin.thompson@theautomaters.com>"
+, "contributors"  : []
+, "dependencies"  : []
+, "main"          : "./lib/glob.js"
+, "version"       : "0.0.1"
 }
