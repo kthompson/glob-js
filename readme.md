@@ -2,6 +2,7 @@
 
 A glob is a pattern-matching syntax that shells use.  Like when you do
 `rm *.js`, the `*.js` is a glob. 
+
 See: http://en.wikipedia.org/wiki/Glob_(programming) for more info.
 
 ## Supported Environments
